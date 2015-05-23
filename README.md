@@ -12,7 +12,9 @@ A script to improve communication in LoL by removing all potentially ~~human~~ n
 - go play league (don't forget to test in a custome game)
 
 ###Usage
-this script sets up fast keybindings to automatically chat to team mates. Note that hitting the space key will center the camera on your champ, so I would not try to use any of these bindings in the middle of a duel. Go test in a custom. 
+  First and foremost, you need to go into all the included text files, and review every single line to see if you are OK with saying these things in game. If you see something you would not want to say in-game, delete the entire line and add your own. You should be adding more phrases anyway, the only limit to how many one-liners can be in each file is your RAM.
+
+  This script sets up fast keybindings to automatically chat to team mates. Note that hitting the space key will center the camera on your champ, so I would not try to use any of these bindings in the middle of a duel. Go test in a custom. 
 - gg *space* will spit out a line of text from the generalCompliments.txt file
 - yy *space* spits from topCompliments.txt
 - hh *space* spits from midCompliments.txt
