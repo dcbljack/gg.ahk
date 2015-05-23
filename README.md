@@ -4,7 +4,7 @@ A script to improve communication in LoL by removing all potentially ~~human~~ n
 
 ### Setup
 - download and install autohotkey
-- download, extract the zip, and move the ggScript folder to your desired location
+- download, extract the [zip included with this repo](https://github.com/dcbljack/gg.ahk/archive/master.zip), and move the ggScript folder to your desired location
 - gg.ahk MUST be in the same folder as the txt files for script to work properly. keep them all together
 - edit the (top/bot/mid/jungle/general) compliments files with one-liners that congratulate them for good plays
 - edit the cheerUpCharlie file with one-liners to help cheer up teammates when they are discouraged or starting to tilt
